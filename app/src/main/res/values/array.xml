@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Array_Semesterno_options">
+
+        <item>@string/sem1</item>
+        <item>@string/sem2</item>
+        <item>@string/sem3</item>
+        <item>@string/sem4</item>
+        <item>@string/sem5</item>
+        <item>@string/sem6</item>
+        <item>@string/sem7</item>
+        <item>@string/sem8</item>
+        <item>@string/sem9</item>
+        <item>@string/sem10</item>
+        <item>@string/sem11</item>
+        <item>@string/sem12</item>
+
+    </string-array>
+</resources>

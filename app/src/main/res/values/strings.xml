@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Amigo</string>
+
+    <string name="userpreference">userpreference</string>
+
+    <string name="numberkey">numberkey</string>
+
+    <string name="sem1">1</string>
+    <string name="sem2">2</string>
+    <string name="sem3">3</string>
+    <string name="sem4">4</string>
+    <string name="sem5">5</string>
+    <string name="sem6">6</string>
+    <string name="sem7">7</string>
+    <string name="sem8">8</string>
+    <string name="sem9">9</string>
+    <string name="sem10">10</string>
+    <string name="sem11">11</string>
+    <string name="sem12">12</string>
+
+
+</resources>
